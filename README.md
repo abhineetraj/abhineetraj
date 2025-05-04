@@ -42,7 +42,7 @@ I'm a results-driven DevOps Engineer with a strong passion for building scalable
 
 ### 📈 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhineetraj&layout=compact&theme=radical)
 
 ---
 
