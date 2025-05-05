@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Abhineet Raj]
+# 👋 Hi, I'm Abhineet Raj
 
 🔧 **Sr DevOps Engineer | Cloud Infrastructure | CI/CD Automation | SRE Practices**
 
