@@ -2,7 +2,7 @@
 
 🔧 **Sr DevOps Engineer | Cloud Infrastructure | CI/CD Automation | SRE Practices**
 
-I'm a results-driven DevOps Engineer with a strong passion for building scalable, secure, and efficient cloud-native infrastructure. I specialize in automating deployment pipelines, managing cloud platforms, and implementing observability systems to ensure high availability and performance.
+Senior DevOps Engineer (US Citizen) with 10+ years driving cloud transformation, infrastructure automation, and CI/CD innovation on AWS/GCP/Azure. Proven record of cutting deployment times by 40%, improving uptime to 99.999%, and reducing cloud costs by 35%. Expert in Container orchestration, automation scripting, and delivering Highly Available, scalable, secure, high-performance multi-region cloud solutions.
 
 ---
 
