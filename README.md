@@ -34,7 +34,6 @@ I'm a results-driven DevOps Engineer with a strong passion for building scalable
 
 ### 📜 Certifications
   
-- ✅ Certified Kubernetes Administrator (CKA)  
 - ✅ AWS Cloud Solutions Architect (2017)
 - ✅ C With Unix (2009)
 
